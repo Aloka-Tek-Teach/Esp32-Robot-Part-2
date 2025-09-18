@@ -13,10 +13,3 @@ OLED:For this project 128X64 OLED is selected.It has much more pixel than a norm
 IR SENSOR:The functionality of this IR sensor is that it help us to understand how data is sent to ESP32.If we take it further we can get creative with it.If the IR sensor receives zero it will look up otherwise it will continue to blink.
 ![image](https://github.com/engrpakistan/ESP32_oled_ir/assets/148635820/a1ad3b4a-e684-43dd-8167-d34b3e9a1d24)
 
-**ACT 2 WIRING**
-
-The wiring diagram shows the pin configuration.The fritzing file and wiring diagram is uploaded in the repo.
-![image](https://github.com/engrpakistan/ESP32_oled_ir/assets/148635820/ce511012-e5d0-40cb-81b8-65bf6a7adafe)
-
-**ACT 3 LOPAKA**
-
