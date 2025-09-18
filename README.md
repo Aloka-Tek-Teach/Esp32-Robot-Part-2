@@ -1,8 +1,7 @@
-# ESP32_oled_ir
+# ESP32_Robot_Part_02
 This repo is about getting started with ESP32.In this repo you will cover two topic sending and receiving data from ESP32.This repo is about receiving data from an IR sensor and  display robotics eyes on an OLED 128x64 display using ESP32.
 
-WATCH FULL TUTORIAL VIDEO --> https://youtu.be/Oq6sax94xng
-
+WATCH FULL TUTORIAL VIDEO --> https://youtu.be/@alokatekteach
 **ACT 1 COMPONENT SELECTION**
 
 ESP32:There are many benefits for using ESP32 than Arduino Nano.It is much faster, has more memory, and has built-in Wifi and bluetooth.
